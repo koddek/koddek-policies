@@ -43,4 +43,4 @@ We may periodically update this Privacy Policy. We encourage you to revisit this
 
 If you have any questions or suggestions regarding our Privacy Policy, please feel free to contact us at codedek@gmail.com.
 
-This privacy policy was created based on templates provided by [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated using the [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/).
+This privacy policy was created based on templates provided by [privacypolicytemplate.net](https://privacypolicytemplate.net).
